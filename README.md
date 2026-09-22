@@ -4,6 +4,14 @@
 
 `demo/`의 두 문서와 여섯 문장은 이 데모를 위해 새로 작성한 일상 일본어 산문입니다. 번역과 어휘 설명도 함께 작성했으며, 기존 노래 가사를 예제로 사용하지 않습니다.
 
+## 스크린샷
+
+Android 에뮬레이터에서 공개 데모를 실행해 촬영했습니다. 이미지를 누르면 원본 크기로 볼 수 있습니다.
+
+| 읽기 | 어휘 | 퀴즈 |
+| :---: | :---: | :---: |
+| <a href="docs/screenshots/reading.png"><img src="docs/screenshots/reading.png" width="240" alt="후리가나와 한국어 번역을 함께 보여주는 읽기 화면"></a> | <a href="docs/screenshots/vocabulary.png"><img src="docs/screenshots/vocabulary.png" width="240" alt="단어 뜻과 북마크를 보여주는 어휘 화면"></a> | <a href="docs/screenshots/quiz.png"><img src="docs/screenshots/quiz.png" width="240" alt="일본어 단어의 뜻을 고르는 퀴즈 화면"></a> |
+
 ## 포함 기능
 
 - 문서 선택, 문장 읽기, 후리가나와 번역 표시 전환
