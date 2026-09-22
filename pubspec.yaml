@@ -1,0 +1,22 @@
+name: tsuki_lyrics
+description: 달빛 가사 공개 데모. 새로 작성한 일본어 예문으로 읽기와 어휘 학습을 체험합니다.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - demo/

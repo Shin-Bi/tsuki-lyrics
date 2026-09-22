@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "title": "도서관에서",
+    "description": "이 공개 데모를 위해 새로 작성한 일상 예문입니다. 노래 가사가 아닙니다.",
+    "sourceLanguage": "ja",
+    "targetLanguage": "ko"
+  },
+  "sentences": [
+    {
+      "id": "library-1",
+      "original": "図書館で小さな辞書を借ります。",
+      "ruby": "｜図書館《としょかん》で｜小《ちい》さな｜辞書《じしょ》を｜借《か》ります。",
+      "translation": "도서관에서 작은 사전을 빌립니다.",
+      "vocabulary": [
+        {
+          "surface": "図書館",
+          "lemma": "図書館",
+          "reading": "としょかん",
+          "meaning": "도서관",
+          "pos": "noun",
+          "posLabelKo": "명사"
+        },
+        {
+          "surface": "辞書",
+          "lemma": "辞書",
+          "reading": "じしょ",
+          "meaning": "사전",
+          "pos": "noun",
+          "posLabelKo": "명사"
+        }
+      ]
+    },
+    {
+      "id": "library-2",
+      "original": "窓の近くで本を読みます。",
+      "ruby": "｜窓《まど》の｜近《ちか》くで｜本《ほん》を｜読《よ》みます。",
+      "translation": "창문 가까이에서 책을 읽습니다.",
+      "vocabulary": [
+        {
+          "surface": "窓",
+          "lemma": "窓",
+          "reading": "まど",
+          "meaning": "창문",
+          "pos": "noun",
+          "posLabelKo": "명사"
+        },
+        {
+          "surface": "本",
+          "lemma": "本",
+          "reading": "ほん",
+          "meaning": "책",
+          "pos": "noun",
+          "posLabelKo": "명사"
+        }
+      ]
+    },
+    {
+      "id": "library-3",
+      "original": "新しい言葉をノートに書きます。",
+      "ruby": "｜新《あたら》しい｜言葉《ことば》をノートに｜書《か》きます。",
+      "translation": "새로운 단어를 공책에 씁니다.",
+      "vocabulary": [
+        {
+          "surface": "言葉",
+          "lemma": "言葉",
+          "reading": "ことば",
+          "meaning": "말, 단어",
+          "pos": "noun",
+          "posLabelKo": "명사"
+        },
+        {
+          "surface": "ノート",
+          "lemma": "ノート",
+          "reading": "ノート",
+          "meaning": "공책",
+          "pos": "noun",
+          "posLabelKo": "명사"
+        }
+      ]
+    }
+  ]
+}
